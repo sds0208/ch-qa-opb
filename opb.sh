@@ -1,6 +1,8 @@
 #!/bin/bash
 
 echo
+echo opb - Open Private Browsing was written by Sarah Santa Cruz.
+echo
 echo This script will open a url in Chrome Incognito, Firefox Private Browsing, and Safari Private Browsing. 
 echo
 echo Note- You must set Safari Preferences to open in a private window first. Running this script will terminate your current Firefox window. 
